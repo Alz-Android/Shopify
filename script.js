@@ -1,6 +1,6 @@
 function preventDefault() {
     event.preventDefault();
-}
+
 
 function setActiveContent(el) {
     var contentBodies = document.getElementsByClassName('content-body');
